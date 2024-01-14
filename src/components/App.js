@@ -64,9 +64,9 @@ const App = ()=> {
                 </form>
 
                 <h3 data-testid="answer">
-                     {/* {
+                     {
                             btnClicked && arr[(name1.length + name2.length)%6]  
-                     } */}
+                     }
                         {
                           relationship
                         }
